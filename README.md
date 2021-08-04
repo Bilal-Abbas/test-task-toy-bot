@@ -5,13 +5,13 @@
 
 ## Setup
 ```
-git clone https://github.com/prodis/toy_robot.git
+git clone https://github.com/Bilal-Abbas/test-task-toy-bot.git
 cd test-task-toy-bot
 bundle install
 ```
 
 ## Running
-`ruby main.rb [commands.txt]`
+`ruby main.rb data/file.txt`
 
 Inside `data` directory there are some test case files.
 
