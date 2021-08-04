@@ -18,5 +18,5 @@ Inside `data` directory there are some test case files.
 Example:
 ```
 $ ruby main.rb data/test_case1.txt
-Output: 3,3,NORTH
+Output: 0,1,NORTH
 ```

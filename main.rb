@@ -1,4 +1,4 @@
-require_relative 'lib/toy_robot'
+require_relative 'source/toy_robot'
 require 'pry'
 
 unless input_file = ARGV[0]
